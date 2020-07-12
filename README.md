@@ -10,13 +10,13 @@ An Implementation of OCR in desktop Using Tesseract google ocr.
 
 * Input Image: 
 
-![] (images/input.png)
+![](images/input.png)
 
 * Processed Image: 
 
-![] (images/output.png)
+![](images/output.png)
 
 * Output Text File
 
-![] (images/output.txt)
+![](images/output.txt)
 
