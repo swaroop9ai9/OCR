@@ -18,5 +18,13 @@ An Implementation of OCR in desktop Using Tesseract google ocr.
 
 * Output Text File
 
-![](images/output.txt)
+''' 
+OCR A Std Regular
+
+the quick brown fox jumps ov
+1234567840
+
+THE QUICK GROWN FOX JUMPS OVER T~
+
+'''
 
