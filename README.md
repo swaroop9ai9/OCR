@@ -14,9 +14,9 @@ An Implementation of OCR in desktop Using Tesseract google ocr.
 
 * Processed Image: 
 
-![](images/process.png)
+![](images/output.png)
 
 * Output Text File
 
-1[](images/output.png)
+1[](images/output.txt)
 
